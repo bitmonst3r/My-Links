@@ -1,0 +1,46 @@
+.body {
+	background-image: url(https://media1.tenor.com/images/905a4dc61356993a521c45b3a07e4425/tenor.gif?itemid=5414479);
+	background-size: cover;
+	background-repeat:no-repeat;
+	height: 780px;
+}
+
+.body-container {
+	text-align: center;
+	width: 60%;
+	margin: 80px auto;
+	background: rgba(0,0,0, 0.6);
+}
+
+h4, h6 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+.profile-img {
+	width: 80px;
+	margin-top: 30px;
+}
+
+.btn {
+	width: 80%;
+}
+
+a.btn:hover {
+	color: white;
+}
+
+.bottom-container {
+	background-color: black;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 1rem;
+	text-align: center;
+	margin-top: 315px;
+}
+
