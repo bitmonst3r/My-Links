@@ -8,13 +8,12 @@
 .body-container {
 	text-align: center;
 	width: 75%;
-	margin: 80px auto;
+	margin: 100px auto;
 	background: rgba(0,0,0, 0.7);
 }
 
-h4, h6 {
+h6 {
 	color: white;
-	line-height: 0.5;
 }
 
 p {
@@ -47,6 +46,7 @@ a.btn {
   color: #EAF6F6;
   font-size: 1rem;
 	text-align: center;
-	margin-top: 315px;
+	margin-top: 265px;
+	padding-bottom: 5px;
 }
 
